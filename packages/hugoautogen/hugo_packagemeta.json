@@ -1,0 +1,13 @@
+{
+  "sum": "461449ab7970d5c",
+  "dependencySources": {
+    "dependencies": {
+      "@tailwindcss/typography": "github.com/hugo-themes/nerdy",
+      "alpinejs": "github.com/hugo-themes/nerdy"
+    },
+    "devDependencies": {
+      "@tailwindcss/cli": "github.com/hugo-themes/nerdy",
+      "tailwindcss": "github.com/hugo-themes/nerdy"
+    }
+  }
+}
