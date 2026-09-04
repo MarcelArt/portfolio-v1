@@ -1,0 +1,40 @@
+name: skills
+label: Skills
+description: My technical stack
+quick: true
+weight: 20
+categories:
+  - key: core_languages
+    items:
+      - Golang
+      - C#/.NET
+      - Node.js
+  - key: frontend
+    items:
+      - React
+      - React Native
+      - Flutter
+      - Compose Multiplatform
+      - GraphQL
+  - key: databases
+    items:
+      - PostgreSQL
+      - SQL Server
+      - MongoDB
+  - key: messaging
+    items:
+      - NATS JetStream
+  - key: auth
+    items:
+      - Keycloak
+      - RBAC / ABAC
+      - Authentication & Authorization
+  - key: devops_tools
+    items:
+      - Docker
+      - GitHub Actions
+      - CI/CD
+      - AWS
+      - Azure
+      - Cloudflare Tunnel
+      - Tailscale
