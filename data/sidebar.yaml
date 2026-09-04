@@ -1,7 +1,7 @@
 profile:
   name: "Marcel Marihot Putra Aritonang"
   title: Backend Developer
-  avatar: "me.JPG"
+  avatar: "images/me.JPG"
   description: Backend engineer experienced in Golang, C#/.NET, and Node.js, building distributed systems, automation tools, and enterprise applications. Strong in API design, authentication, and CI/CD.
   status:
     label: Status
