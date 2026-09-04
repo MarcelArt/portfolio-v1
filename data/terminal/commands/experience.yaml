@@ -1,0 +1,30 @@
+name: experience
+label: Experience
+description: Professional work history
+quick: true
+weight: 30
+roles:
+  - title: Lead Backend Developer
+    company: Aptaworks
+    period: Apr 2025 - Present
+    highlights:
+      - Built a web UI for an LLM-powered document extraction platform with C#/.NET, auto-generating dynamic reports.
+      - Implemented Keycloak for RBAC/ABAC, establishing centralized authentication and identity management.
+      - Built and maintained CI/CD pipelines across internal applications, improving deployment reliability.
+  - title: IT Engineer
+    company: Aptaworks
+    period: Dec 2023 - Apr 2025
+    highlights:
+      - Designed a distributed system across four palm oil mills with reliable replication to head office.
+      - Integrated industrial weighbridge indicators for automatic, accurate weight capture.
+  - title: Backend Developer
+    company: Zettabyte
+    period: Nov 2021 - Dec 2023
+    highlights:
+      - Developed a dynamic form builder for student admissions and teacher contract workflows.
+      - Implemented study fee finance features integrated with the Adyen payment platform.
+  - title: Mobile Developer Intern
+    company: PT Global Urban Esensial
+    period: Jan 2020 - Jun 2020
+    highlights:
+      - Built a real-time chat module for the Doctor 2 Doctor application.
