@@ -1,0 +1,17 @@
+name: about
+label: About
+description: Information about me
+quick: true
+weight: 10
+greeting: Hello, World!
+person_name: "Marcel Marihot Putra Aritonang"
+role: Lead Backend Developer
+summary: I'm a backend engineer experienced in Golang, C#/.NET, and Node.js, with a track record of building distributed systems, automation tools, and enterprise applications.
+details:
+  - Currently at Aptaworks, building an LLM-powered document extraction platform and establishing centralized auth with Keycloak (RBAC/ABAC).
+  - I designed a distributed system across four palm oil mills with reliable replication to head office, improving operational visibility.
+  - At Zettabyte, I built a dynamic form builder for student admissions and integrated Adyen payments for study fee billing.
+  - Strong in API design, authentication, CI/CD, and delivering maintainable backend services. AWS Certified Solutions Architect – Associate (2025).
+# quote:
+#   text: First, solve the problem. Then, write the code.
+#   author: John Johnson
