@@ -1,0 +1,37 @@
+name: projects
+label: Projects
+description: View my portfolio projects
+quick: true
+weight: 40
+items:
+  - name: 🍔 stacker
+    type: Personal
+    tech:
+      - Go
+      - Docker
+    description: 🍔 stacker is a Go CLI that builds Docker Compose configs by adding preconfigured services on demand
+    url: https://github.com/MarcelArt/stacker
+  - name: Auregia
+    type: Personal
+    tech:
+      - Dart
+      - Flutter
+      - Bun
+      - Typescript
+      - PostgreSQL
+    description: A mobile app for tracking gold investment portfolios
+    url: https://github.com/MarcelArt/e_mas
+  - name: Refinery
+    type: Personal
+    tech:
+      - Go
+      - HTMX
+      - Alpine.js
+      - PostgreSQL
+      - Docker
+      - n8n
+      - Ollama
+      - Cloudflare Tunnel
+      - Cloudflare R2
+    description: Refine unstructured data into structured data
+    url: https://refinery.bangmarcel.art
