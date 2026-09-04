@@ -1,0 +1,58 @@
+profile:
+  name: "Marcel Marihot Putra Aritonang"
+  title: Lead Backend Developer
+  avatar: "me.JPG"
+  description: Backend engineer experienced in Golang, C#/.NET, and Node.js, building distributed systems, automation tools, and enterprise applications. Strong in API design, authentication, and CI/CD.
+  status:
+    label: Status
+    value: Open to Senior Roles
+    preference_label: Location
+    preference: Jakarta, Indonesia
+  links:
+    - icon: github
+      label: github.com/MarcelArt
+      url: https://github.com/MarcelArt
+    - icon: linkedin
+      label: linkedin.com/in/marcel-marihot-putra-aritonang
+      url: https://linkedin.com/in/marcel-marihot-putra-aritonang
+    - icon: mail
+      label: marcel.aritonang@gmail.com
+      url: mailto:marcel.aritonang@gmail.com
+    - icon: website
+      label: marcelart.github.io
+      url: https://marcelart.github.io
+
+sections:
+  - id: profile-stats
+    type: stats
+    title: Profile Stats
+    items:
+      - label: Experience
+        value: 4+ yrs
+        accent: emerald
+      - label: Focus
+        value: Distributed Systems
+        accent: cyan
+      - label: Certified
+        value: AWS SAA
+        accent: amber
+      - label: Languages
+        value: EN / ID
+        accent: purple
+
+  - id: core-stack
+    type: tags
+    title: Core Stack
+    items:
+      - Go
+      - C#/.NET
+      - Node.js
+      - PostgreSQL
+      - MongoDB
+      - SQL Server
+      - Keycloak
+      - Docker
+      - GitHub Actions
+      - AWS
+      - Azure
+      - NATS JetStream

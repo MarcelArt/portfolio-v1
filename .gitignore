@@ -12,3 +12,5 @@ resources/_gen/
 !.dev.vars.example
 .env*
 !.env.example
+
+references/*
