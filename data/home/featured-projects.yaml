@@ -1,0 +1,49 @@
+id: featured-projects
+type: projects
+icon: code
+title: Featured Projects
+items:
+  - title: 🍔 stacker
+    description: A Go CLI that builds Docker Compose configs by adding preconfigured
+      services on demand.
+    tech:
+      - Go
+      - Docker
+    accent: cyan
+    type: Personal
+    links:
+      - label: Code
+        url: https://github.com/MarcelArt/stacker
+        icon: github
+  - title: Auregia
+    description: A mobile app for tracking gold investment portfolios.
+    tech:
+      - Dart
+      - Flutter
+      - Bun
+      - Typescript
+      - PostgreSQL
+    accent: amber
+    type: Personal
+    links:
+      - label: Code
+        url: https://github.com/MarcelArt/e_mas
+        icon: github
+  - title: Refinery
+    description: Refine unstructured data into structured data.
+    tech:
+      - Go
+      - HTMX
+      - Alpine.js
+      - PostgreSQL
+      - Docker
+      - n8n
+      - Ollama
+      - Cloudflare Tunnel
+      - Cloudflare R2
+    accent: purple
+    type: Personal
+    links:
+      - label: Live
+        url: https://refinery.bangmarcel.art
+        icon: external
